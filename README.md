@@ -2,7 +2,7 @@
 
 Solving [Ethernaut](https://ethernaut.openzeppelin.com/) challenges.
 
-- #### ♻️ &nbsp;&nbsp;[1. Fallback](https://github.com/Farber98/reentrancy)
+- #### ♻️ &nbsp;&nbsp;[1. Fallback](https://github.com/Farber98/ctf-ethernaut/tree/master/01_fallback)
 
 <!-- - #### 💥 &nbsp;&nbsp;[Selfdestruct](https://github.com/Farber98/selfdestruct)
 - #### 🔐 &nbsp;&nbsp;[Private variables](https://github.com/Farber98/private-variables)
