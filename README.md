@@ -8,6 +8,7 @@ Solving [Ethernaut](https://ethernaut.openzeppelin.com/) challenges.
 - #### ♻️ &nbsp;&nbsp;[4. Telephone](https://github.com/Farber98/ctf-ethernaut/tree/master/04_telephone)
 - #### ♻️ &nbsp;&nbsp;[5. Token](https://github.com/Farber98/ctf-ethernaut/tree/master/05_token)
 - #### ♻️ &nbsp;&nbsp;[6. Delegation](https://github.com/Farber98/ctf-ethernaut/tree/master/06_delegation)
+- #### ♻️ &nbsp;&nbsp;[7. Force](https://github.com/Farber98/ctf-ethernaut/tree/master/07_force)
 
 <!-- - #### 💥 &nbsp;&nbsp;[Selfdestruct](https://github.com/Farber98/selfdestruct)
 - #### 🔐 &nbsp;&nbsp;[Private variables](https://github.com/Farber98/private-variables)
