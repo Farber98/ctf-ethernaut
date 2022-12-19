@@ -11,6 +11,7 @@ Solving [Ethernaut](https://ethernaut.openzeppelin.com/) challenges.
 - #### ♻️ &nbsp;&nbsp;[7. Force](https://github.com/Farber98/ctf-ethernaut/tree/master/07_force)
 - #### ♻️ &nbsp;&nbsp;[8. Vault](https://github.com/Farber98/ctf-ethernaut/tree/master/08_vault)
 - #### ♻️ &nbsp;&nbsp;[9. King](https://github.com/Farber98/ctf-ethernaut/tree/master/09_king)
+- #### ♻️ &nbsp;&nbsp;[10. Reentrancy](https://github.com/Farber98/ctf-ethernaut/tree/master/10_reentrancy)
 
 <!-- - #### 💥 &nbsp;&nbsp;[Selfdestruct](https://github.com/Farber98/selfdestruct)
 - #### 🔐 &nbsp;&nbsp;[Private variables](https://github.com/Farber98/private-variables)
