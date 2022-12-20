@@ -17,7 +17,8 @@ Solving [Ethernaut](https://ethernaut.openzeppelin.com/) challenges.
 - #### 🚧 &nbsp;&nbsp;[14. Gatekeeper II](https://github.com/Farber98/ctf-ethernaut/tree/master/14_gatekeeper2)
 - #### 🪙 &nbsp;&nbsp;[15. Naughty Coin](https://github.com/Farber98/ctf-ethernaut/tree/master/15_naughtycoin)
 - #### ↪️ &nbsp;&nbsp;[16. Recovery](https://github.com/Farber98/ctf-ethernaut/tree/master/16_recovery)
-- #### 🛑 &nbsp;&nbsp;[16. Denial](https://github.com/Farber98/ctf-ethernaut/tree/master/19_denial)
+- #### 🛑 &nbsp;&nbsp;[19. Denial](https://github.com/Farber98/ctf-ethernaut/tree/master/19_denial)
+- #### 🛑 &nbsp;&nbsp;[20. Shop](https://github.com/Farber98/ctf-ethernaut/tree/master/20_shop)
 
 <!-- - #### 💥 &nbsp;&nbsp;[Selfdestruct](https://github.com/Farber98/selfdestruct)
 - #### 🔐 &nbsp;&nbsp;[Private variables](https://github.com/Farber98/private-variables)
