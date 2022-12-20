@@ -19,6 +19,8 @@ Solving [Ethernaut](https://ethernaut.openzeppelin.com/) challenges.
 - #### ↪️ &nbsp;&nbsp;[16. Recovery](https://github.com/Farber98/ctf-ethernaut/tree/master/16_recovery)
 - #### 🛑 &nbsp;&nbsp;[19. Denial](https://github.com/Farber98/ctf-ethernaut/tree/master/19_denial)
 - #### 🛑 &nbsp;&nbsp;[20. Shop](https://github.com/Farber98/ctf-ethernaut/tree/master/20_shop)
+- #### 🛑 &nbsp;&nbsp;[21. Dex](https://github.com/Farber98/ctf-ethernaut/tree/master/21_dex)
+- #### 🛑 &nbsp;&nbsp;[22. Dex2](https://github.com/Farber98/ctf-ethernaut/tree/master/22_dex2)
 
 <!-- - #### 💥 &nbsp;&nbsp;[Selfdestruct](https://github.com/Farber98/selfdestruct)
 - #### 🔐 &nbsp;&nbsp;[Private variables](https://github.com/Farber98/private-variables)
